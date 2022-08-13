@@ -1,0 +1,25 @@
+.container {
+  display: grid;
+  margin-bottom: 3px;
+  margin-top: 50px;
+  justify-content: center;
+  align-items: center;
+  padding: 7px;
+}
+
+.qr-code {
+  width: 380px;
+    border-radius: 19px;
+}
+
+.header {
+  width: 350px;
+}
+
+.paragraph {
+  width: 250px;
+}
+
+p {
+  font-size: 15px;
+}
